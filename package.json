@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bhavu211/travel-site.git"
+    "url": "git+https://github.com/bhawnamanglapm/travel-site.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bhavu211/travel-site/issues"
+    "url": "https://github.com/bhawnamanglapm/travel-site/issues"
   },
-  "homepage": "https://github.com/Bhavu211/travel-site#readme",
+  "homepage": "https://github.com/bhawnamanglapm/travel-site#readme",
   "dependencies": {
     "lodash": "^4.17.19",
     "normalize.css": "^8.0.1"
