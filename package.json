@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/bhawnamanglapm/travel-site#readme",
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
