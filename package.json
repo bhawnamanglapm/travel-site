@@ -1,11 +1,14 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Static front-end design prototype: a one-page travel landing page with placeholder content.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node scripts/webpack.mjs production",
+    "build:dev": "node scripts/webpack.mjs dev",
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/check.mjs"
   },
   "repository": {
     "type": "git",
