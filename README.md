@@ -70,7 +70,7 @@ npm test        # offline checks
 | `design-hifi.png` | High-fidelity design mock-up |
 | `photoshop-source.psd` | 92 MB Photoshop source. It makes the repo history about 160 MB; it was not removed |
 | `scripts/` | Build wrapper and offline checks |
-| `.github/workflows/ci.yml` | Builds, tests, and publishes `app/` to GitHub Pages from `main` |
+| `.github/workflows/ci.yml` | Builds, tests, and publishes `app/` to GitHub Pages from `master` |
 
 ## Known gaps
 
